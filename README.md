@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Fork:
+Fork: [*KLIK*](https://github.com/KacperMachnik/face_recognition)
 
-Artykuł naukowy:
+Artykuł naukowy: [*KLIK*](https://cs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/FaceRecognition.pdf)
 
 - 🔭 I’m currently working on ...?
 - 🌱 I’m currently learning Python
