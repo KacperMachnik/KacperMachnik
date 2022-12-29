@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+
+Fork:
+Artykuł naukowy:
+
 - 🔭 I’m currently working on ...?
 - 🌱 I’m currently learning Python
 
