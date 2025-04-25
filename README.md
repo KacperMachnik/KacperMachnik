@@ -1,18 +1,37 @@
-### Hi there 👋
+# 👋 Hi, I'm Kacper!
 
+I'm a backend developer specializing in the Java ecosystem. I'm passionate about building efficient and scalable applications.
 
-Fork: [*KLIK*](https://github.com/KacperMachnik/face_recognition)
+## 🛠️ My Core Tech Stack
 
-Artykuł naukowy: [*KLIK*](https://cs.ucf.edu/~dcm/Teaching/COT4810-Spring2011/Literature/FaceRecognition.pdf)
+- **Backend & Java**: Java, Spring (Boot, MVC, Data JPA), Hibernate, Kotlin
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Maven, Gradle, Git, Lombok, Logback, JUnit, JDBC, Postman
+- **Concepts**: Design Patterns, Functional Programming, Streams, Generics
+- **Others**: C, C#, Python, Rust, Haskell
 
-- 🔭 I’m currently working on ...?
-- 🌱 I’m currently learning Python
+## 🚀 Projects
 
-* Moja strona internetowa Github [*LINK*](https://kacpermachnik.github.io/)
+In my projects, I utilize the technologies listed above to build various backend solutions.
 
+### 📌 [student-registration-system](https://github.com/KacperMachnik/student-registration-system) - Student Registration System
 
-<!--
-**KacperMachnik/KacperMachnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An application for managing student registrations for courses. It allows adding, editing, and deleting information about students, courses, groups, grades, attendance.
 
+**Technologies Used**: Java, Spring Boot, PostgreSQL, Lombok, 
 
--->
+### 📌 [ecom-sb](https://github.com/KacperMachnik/ecom-sb) - E-commerce Project
+
+A comprehensive e-commerce application with functionalities such as product management, shopping cart, and order system.
+
+**Technologies Used**: Java, Spring Boot, PostgreSQL, Lombok
+
+### 📌 [design-patterns-project](https://github.com/KacperMachnik/design-patterns-project) - Design Patterns Project
+
+A Kotlin-based ORM framework implementing various design patterns. A university project focused on best practices in software engineering.
+
+**Technologies Used**: Kotlin, Gradle
+
+## 📫 Contact
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kacpermachnik](https://www.linkedin.com/in/kacper-machnik-99a699362/)
+- Email: kacper.machnik00@gmail.com
