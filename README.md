@@ -33,5 +33,5 @@ A Kotlin-based ORM framework implementing various design patterns. A university 
 **Technologies Used**: Kotlin, Gradle
 
 ## 📫 Contact
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kacpermachnik](https://www.linkedin.com/in/kacper-machnik-99a699362/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kacper-machnik-99a699362/)
 - Email: kacper.machnik00@gmail.com
